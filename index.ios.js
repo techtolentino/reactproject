@@ -17,7 +17,7 @@ var ReactProject = React.createClass({
     return (
       <View style={styles.container}>
         <Text style={styles.welcome}>
-          Welcome to React Native!
+          Welcome to TreeSeed!
         </Text>
         <Text style={styles.instructions}>
           To get started, edit index.ios.js{'\n'}
@@ -37,7 +37,7 @@ var styles = StyleSheet.create({
   },
   welcome: {
     fontSize: 20,
-    textAlign: 'center',
+    textAlign: 'left',
     margin: 10,
   },
   instructions: {
